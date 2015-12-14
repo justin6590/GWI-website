@@ -326,50 +326,55 @@ div.infro-20 {
 <p><div class="profile-11">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-11">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Johnny<br />
+Rank: Soldier<br />
+Motto:"Hello, World."<br />
+XBL: Jonsplace23<br />
+<a href="#">Click Here for more information about Johnny</a>
 </div>
 </div>
 </p>
 <p><div class="profile-12">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-12">
-Name: Mark<br />
-Rank: Capo<br />
+Name: Gabe<br />
+Rank: Soldier<br />
 Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+XBL: godfather4life<br />
+<a href="#">Click Here for more information about Gabe</a>
 </div>
 </div>
 </p>
 <p><div class="profile-13">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-13">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: David<br />
+Rank: Soldier<br />
+Motto:"Ummm....something clever?"<br />
+XBL: TomFrigginHanks<br />
+<a href="#">Click Here for more information about David</a>
 </div>
 </div>
 </p>
 <p><div class="profile-14">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-14">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Zack<br />
+Rank: Soldier<br />
+Motto:"Adam, wait up."<br />
+XBL: Swolider<br />
+<a href="#">Click Here for more information about Zack</a>
 </div>
 </div>
 </p>
 <p><div class="profile-15">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-15">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Adam<br />
+Rank: Soldier<br />
+Motto:"Going to the gym, guys."<br />
+XBL: FlexingBro54<br />
+<a href="#">Click Here for more information about Adam</a>
 </div>
 </div>
 </p>

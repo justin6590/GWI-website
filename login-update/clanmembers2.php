@@ -326,50 +326,55 @@ div.infro-20 {
 <p><div class="profile-6">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-6">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Christian<br />
+Rank: Soldier<br />
+Motto:"I like pie"<br />
+XBL: ThronedJam<br />
+<a href="#">Click Here for more information about Christian</a>
 </div>
 </div>
 </p>
 <p><div class="profile-7">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-7">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Jon Boy<br />
+Rank: Soldier<br />
+Motto:"I'm an adult, stop calling me jon boy"<br />
+XBL: BigBoyJon<br />
+<a href="#">Click Here for more information about Jon Boy</a>
 </div>
 </div>
 </p>
 <p><div class="profile-8">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-8">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Daniel<br />
+Rank: Soldier<br />
+Motto:"Going for diamond"<br />
+XBL: BamaPro154<br />
+<a href="#">Click Here for more information about Dainel</a>
 </div>
 </div>
 </p>
 <p><div class="profile-9">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-9">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Aaron<br />
+Rank: Soldier<br />
+Motto:"Please dont kill me"<br />
+XBL: aaron8724<br />
+<a href="#">Click Here for more information about Aaron</a>
 </div>
 </div>
 </p>
 <p><div class="profile-10">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-10">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Derek<br />
+Rank: Soldier<br />
+Motto:"ONE AWAY FROM DOGS"<br />
+XBL: TheSmellyGinger<br />
+<a href="#">Click Here for more information about Derek</a>
 </div>
 </div>
 </p>

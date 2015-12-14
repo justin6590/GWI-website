@@ -326,50 +326,55 @@ div.infro-20 {
 <p><div class="profile-16">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-16">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Zach<br />
+Rank: Soldier<br />
+Motto:"Can you please pick me up?"<br />
+XBL: ZombieKiller182<br />
+<a href="#">Click Here for more information about Zach</a>
 </div>
 </div>
 </p>
 <p><div class="profile-17">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-17">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Stephen<br />
+Rank: Soldier<br />
+Motto:"Cars go fast."<br />
+XBL: ZombiePlayer1290<br />
+<a href="#">Click Here for more information about Stephen</a>
 </div>
 </div>
 </p>
 <p><div class="profile-18">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-18">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Doug<br />
+Rank: Soldier<br />
+Motto:"Live Life to the fullest"<br />
+XBL: Douggboy<br />
+<a href="#">Click Here for more information about Doug</a>
 </div>
 </div>
 </p>
 <p><div class="profile-19">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-19">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Durrell<br />
+Rank: Soldier<br />
+Motto:"#BlackLivesMatter"<br />
+XBL: BlackL1v3s<br />
+<a href="#">Click Here for more information about Durrell</a>
 </div>
 </div>
 </p>
 <p><div class="profile-20">
 <img src="images/default_image.png" height="120px" width="120px" /><br/><br />
 <div class="infro-20">
-Name: Mark<br />
-Rank: Capo<br />
-Motto:"Ummm is there an UAV up or something?"<br />
-XBL: BigColt143<br />
+Name: Hal<br />
+Rank: Soldier<br />
+Motto:"AHHHHHHHHHHHHHH"<br />
+XBL: iNtheMiddl3<br />
+<a href="#">Click Here for more information about Hal</a>
 </div>
 </div>
 </p>
