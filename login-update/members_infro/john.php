@@ -32,9 +32,9 @@ div.infro-1 {
     </div>
     <div>
       <ul class="nav navbar-nav">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="clanmembers.php">Meet the Clan</a>
-        <li><a href="main.php">Login</a>
+        <li><a href="../index.php">Home</a></li>
+        <li><a href="../clanmembers.php">Meet the Clan</a>
+        <li><a href="../main.php">Login</a>
       </ul>
     </div>
   </div>
