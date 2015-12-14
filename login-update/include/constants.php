@@ -14,9 +14,9 @@
  * correct.
  */
 define("DB_SERVER", "localhost");
-define("DB_USER", "root");//enter your database username
-define("DB_PASS", "Janyga0440");//databse password
-define("DB_NAME", "gamingwhileintoxicated");//database name
+define("DB_USER", "");//enter your database username
+define("DB_PASS", "");//databse password
+define("DB_NAME", "");//database name
 
 /**
  * Database Table Constants - these constants
